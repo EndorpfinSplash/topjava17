@@ -1,1 +1,6 @@
-https://github.com/JavaWebinar/topjava/tree/doc/doc -- уроки
+---   Список уроков
+https://github.com/JavaWebinar/topjava/tree/doc/doc
+
+
+--- Ctrl + Alt + Shift + S -> SDK -> Specify URL (подтянется дефолтный ресурс)
+ в дальнейшем при нажатии -> Shift + F1 - приводится сслка на документацию Java Oracle

@@ -23,3 +23,6 @@ https://github.com/JavaOPs/topjava/wiki - раздел помощи
 Томкат менеджер: http://localhost:8080/manager
 Для входа в админку в TOMCAT_HOME\conf\tomcat-users.xml нужно добавить
 <user username="tomcat" password="tomcat" roles="tomcat,manager-gui,admin-gui"/>
+
+-- MAVEN 
+https://jsehelper.blogspot.com/2016/05/maven-2.html

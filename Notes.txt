@@ -26,3 +26,12 @@ https://github.com/JavaOPs/topjava/wiki - раздел помощи
 
 -- MAVEN 
 https://jsehelper.blogspot.com/2016/05/maven-2.html
+
+
+-------- GOOGEL javaStyle Guide
+https://google.github.io/styleguide/javaguide.html#s5.2.4-constant-names
+
+
+
+17 Перед чекином проверяйте свой ченджлист (Ctrl+D на файле из Local Changes - посмотреть что поменялось).
+Если там только пробелы/переводы строк, не надо его комитить - делайте файлу Git->revert.

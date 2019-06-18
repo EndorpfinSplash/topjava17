@@ -1,6 +1,10 @@
 ---   Список уроков
 https://github.com/JavaWebinar/topjava/tree/doc/doc
 
+-- Сам проект октуда клонировали:
+https://github.com/JavaOPs/topjava
+https://github.com/JavaOPs/topjava/wiki - раздел помощи
+
 
 --- Ctrl + Alt + Shift + S -> SDK -> Specify URL (подтянется дефолтный ресурс)
  в дальнейшем при нажатии -> Shift + F1 - приводится сслка на документацию Java Oracle
@@ -12,3 +16,10 @@ https://github.com/JavaWebinar/topjava/tree/doc/doc
 1) спускаемся вниз до комита с которым хотим всё объединить
 2) выбираем Reset current brunch to Here
 3) в меню Git Reset выбираем Soft
+
+--
+
+
+Томкат менеджер: http://localhost:8080/manager
+Для входа в админку в TOMCAT_HOME\conf\tomcat-users.xml нужно добавить
+<user username="tomcat" password="tomcat" roles="tomcat,manager-gui,admin-gui"/>
